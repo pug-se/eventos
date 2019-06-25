@@ -1,0 +1,914 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Gravit.io -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   style="isolation:isolate"
+   viewBox="-74 -99 799.006 799.854"
+   width="799.006pt"
+   height="799.854pt"
+   version="1.1"
+   id="svg116"
+   sodipodi:docname="final2.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   inkscape:export-filename="C:\Users\anderson\camiseta\final.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <metadata
+     id="metadata120">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="715"
+     id="namedview118"
+     showgrid="false"
+     inkscape:zoom="0.5"
+     inkscape:cx="362.16668"
+     inkscape:cy="421.19274"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg116" />
+  <defs
+     id="defs5">
+    <clipPath
+       id="_clipPath_6WRo8waJAgcpN6r6q9e01XYwOblOoD6t">
+      <rect
+         x="-74"
+         y="-99"
+         width="799.006"
+         height="799.854"
+         id="rect2" />
+    </clipPath>
+    <clipPath
+       id="_clipPath_0HXFeWoDyWJsE3aQ0NptTtrGqAIv72Ns">
+      <path
+         d="M -74,-99 V 700.854 H 725.006 V -99 Z"
+         id="path7"
+         inkscape:connector-curvature="0"
+         style="fill:#ffffff" />
+    </clipPath>
+    <linearGradient
+       id="linearGradient4671">
+      <stop
+         style="stop-color:#ffd43b;stop-opacity:1;"
+         offset="0"
+         id="stop4673" />
+      <stop
+         style="stop-color:#ffe873;stop-opacity:1"
+         offset="1"
+         id="stop4675" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4689"
+       id="linearGradient1478"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.18977177,0,0,0.18907443,462.60703,560.19228)"
+       x1="26.648937"
+       y1="20.603781"
+       x2="135.66525"
+       y2="114.39767" />
+    <linearGradient
+       id="linearGradient4689">
+      <stop
+         style="stop-color:#5a9fd4;stop-opacity:1;"
+         offset="0"
+         id="stop4691" />
+      <stop
+         style="stop-color:#306998;stop-opacity:1;"
+         offset="1"
+         id="stop4693" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4671"
+       id="linearGradient1475"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.42190574,0,0,0.42597899,-95.578638,83.932962)"
+       x1="150.96111"
+       y1="192.35176"
+       x2="112.03144"
+       y2="137.27299" />
+    <filter
+       id="aa">
+      <feGaussianBlur
+         stdDeviation=".57562"
+         id="feGaussianBlur2" />
+    </filter>
+    <filter
+       id="o">
+      <feGaussianBlur
+         stdDeviation="1.18976"
+         id="feGaussianBlur5" />
+    </filter>
+    <filter
+       id="filter1357">
+      <feGaussianBlur
+         stdDeviation="1.18976"
+         id="feGaussianBlur1355" />
+    </filter>
+    <radialGradient
+       id="i"
+       cx="171"
+       cy="129.75"
+       r="4"
+       gradientTransform="matrix(2.381,2.3416e-7,-1.05e-6,6.4419,-236.15,-706.07)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#3b280f"
+         offset="0"
+         id="stop54" />
+      <stop
+         stop-color="#7a532b"
+         stop-opacity="0"
+         offset="1"
+         id="stop56" />
+    </radialGradient>
+    <filter
+       id="r"
+       x="-0.12479"
+       y="-0.023770001"
+       width="1.2496001"
+       height="1.0475">
+      <feGaussianBlur
+         stdDeviation=".41597"
+         id="feGaussianBlur14" />
+    </filter>
+    <radialGradient
+       id="v"
+       cx="251.32001"
+       cy="168.53999"
+       r="16.124001"
+       gradientTransform="matrix(1.2546,-0.053072,0.03235,0.76477,-69.447,52.983)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#e" />
+    <linearGradient
+       id="e">
+      <stop
+         stop-color="#3e1f0a"
+         offset="0"
+         id="stop39" />
+      <stop
+         stop-color="#b06d46"
+         stop-opacity="0"
+         offset="1"
+         id="stop41" />
+    </linearGradient>
+    <filter
+       id="a"
+       x="-0.03111"
+       y="-0.10498"
+       width="1.0622"
+       height="1.21">
+      <feGaussianBlur
+         stdDeviation=".41804"
+         id="feGaussianBlur11" />
+    </filter>
+    <linearGradient
+       id="m"
+       x1="267.44"
+       x2="266.42001"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#b"
+       gradientTransform="matrix(2.0853726,0,0,2.0853726,-500.82924,-313.77296)" />
+    <linearGradient
+       id="b">
+      <stop
+         stop-color="#7a532b"
+         offset="0"
+         id="stop34" />
+      <stop
+         stop-color="#7a532b"
+         stop-opacity="0"
+         offset="1"
+         id="stop36" />
+    </linearGradient>
+    <radialGradient
+       id="h"
+       cx="230.13"
+       cy="167.78"
+       r="5.0935001"
+       gradientTransform="matrix(2.1024,3.4972e-8,-2.9988e-8,1.3729,-253.71,-62.569)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#n" />
+    <linearGradient
+       id="n">
+      <stop
+         stop-color="#402110"
+         offset="0"
+         id="stop29" />
+      <stop
+         stop-color="#b06d46"
+         stop-opacity="0"
+         offset="1"
+         id="stop31" />
+    </linearGradient>
+    <filter
+       id="f"
+       x="-0.12227"
+       y="-0.14341"
+       width="1.2445"
+       height="1.2868">
+      <feGaussianBlur
+         stdDeviation=".53502"
+         id="feGaussianBlur8" />
+    </filter>
+    <radialGradient
+       id="d"
+       cx="128.17"
+       cy="111.88"
+       r="5.2089"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#fff"
+         offset="0"
+         id="stop59" />
+      <stop
+         stop-color="#fff"
+         stop-opacity="0"
+         offset="1"
+         id="stop61" />
+    </radialGradient>
+    <radialGradient
+       id="c"
+       cx="128.17"
+       cy="111.88"
+       r="5.2089"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#ebebeb"
+         stop-opacity=".37255"
+         offset="0"
+         id="stop64" />
+      <stop
+         stop-color="#fff"
+         stop-opacity="0"
+         offset="1"
+         id="stop66" />
+    </radialGradient>
+    <radialGradient
+       id="g"
+       cx="256.91"
+       cy="167.88"
+       r="16.124001"
+       gradientTransform="matrix(1.2152,9.0652e-7,-4.29e-7,0.54609,-39.204,76.207)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#e" />
+    <filter
+       id="filter1395"
+       x="-0.03111"
+       y="-0.10498"
+       width="1.0622"
+       height="1.21">
+      <feGaussianBlur
+         stdDeviation=".41804"
+         id="feGaussianBlur1393" />
+    </filter>
+    <linearGradient
+       id="x"
+       x1="282.29999"
+       x2="281.29001"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#b"
+       gradientTransform="matrix(2.0853726,0,0,2.0853726,-500.82924,-313.77296)" />
+    <radialGradient
+       id="radialGradient1408"
+       cx="171"
+       cy="129.75"
+       r="4"
+       gradientTransform="matrix(2.381,2.3416e-7,-1.05e-6,6.4419,-236.15,-706.07)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#3b280f"
+         offset="0"
+         id="stop1404" />
+      <stop
+         stop-color="#7a532b"
+         stop-opacity="0"
+         offset="1"
+         id="stop1406" />
+    </radialGradient>
+    <filter
+       id="filter1412"
+       x="-0.12479"
+       y="-0.023770001"
+       width="1.2496001"
+       height="1.0475">
+      <feGaussianBlur
+         stdDeviation=".41597"
+         id="feGaussianBlur1410" />
+    </filter>
+    <radialGradient
+       id="u"
+       cx="251.32001"
+       cy="168.53999"
+       r="16.124001"
+       gradientTransform="matrix(1.2546,-0.053072,0.03235,0.76477,-69.447,330.91)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#e" />
+    <filter
+       id="filter1423"
+       x="-0.03111"
+       y="-0.10498"
+       width="1.0622"
+       height="1.21">
+      <feGaussianBlur
+         stdDeviation=".41804"
+         id="feGaussianBlur1421" />
+    </filter>
+    <linearGradient
+       id="linearGradient1425"
+       x1="267.44"
+       x2="266.42001"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#b" />
+    <radialGradient
+       id="t"
+       cx="230.13"
+       cy="167.78"
+       r="5.0935001"
+       gradientTransform="matrix(2.1024,3.4972e-8,-2.9988e-8,1.3729,-253.71,215.36)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#n" />
+    <filter
+       id="filter1442"
+       x="-0.12227"
+       y="-0.14341"
+       width="1.2445"
+       height="1.2868">
+      <feGaussianBlur
+         stdDeviation=".53502"
+         id="feGaussianBlur1440" />
+    </filter>
+    <radialGradient
+       id="radialGradient1448"
+       cx="128.17"
+       cy="111.88"
+       r="5.2089"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#fff"
+         offset="0"
+         id="stop1444" />
+      <stop
+         stop-color="#fff"
+         stop-opacity="0"
+         offset="1"
+         id="stop1446" />
+    </radialGradient>
+    <radialGradient
+       id="radialGradient1454"
+       cx="128.17"
+       cy="111.88"
+       r="5.2089"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#ebebeb"
+         stop-opacity=".37255"
+         offset="0"
+         id="stop1450" />
+      <stop
+         stop-color="#fff"
+         stop-opacity="0"
+         offset="1"
+         id="stop1452" />
+    </radialGradient>
+    <radialGradient
+       id="s"
+       cx="256.91"
+       cy="167.88"
+       r="16.124001"
+       gradientTransform="matrix(1.2152,9.0652e-7,-4.29e-7,0.54609,-39.204,354.13)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#e" />
+    <filter
+       id="filter1465"
+       x="-0.03111"
+       y="-0.10498"
+       width="1.0622"
+       height="1.21">
+      <feGaussianBlur
+         stdDeviation=".41804"
+         id="feGaussianBlur1463" />
+    </filter>
+    <linearGradient
+       id="w"
+       x1="284.69"
+       x2="282.98001"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#b"
+       gradientTransform="matrix(2.0853726,0,0,2.0853726,-500.82924,-313.77296)" />
+    <filter
+       id="q"
+       x="-0.16112"
+       y="-0.03184"
+       width="1.3221999"
+       height="1.0637">
+      <feGaussianBlur
+         stdDeviation=".55722"
+         id="feGaussianBlur17" />
+    </filter>
+    <filter
+       id="p"
+       x="-0.03889"
+       y="-0.13122"
+       width="1.0778"
+       height="1.2624">
+      <feGaussianBlur
+         stdDeviation=".52255"
+         id="feGaussianBlur20" />
+    </filter>
+    <linearGradient
+       id="l"
+       x1="493.91"
+       x2="494.92001"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#b" />
+    <radialGradient
+       id="radialGradient1485"
+       cx="230.13"
+       cy="167.78"
+       r="5.0935001"
+       gradientTransform="matrix(2.1024,3.4972e-8,-2.9988e-8,1.3729,-253.71,-62.569)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#n" />
+    <filter
+       id="filter1495"
+       x="-0.12227"
+       y="-0.14341"
+       width="1.2445"
+       height="1.2868">
+      <feGaussianBlur
+         stdDeviation=".53502"
+         id="feGaussianBlur1493" />
+    </filter>
+    <radialGradient
+       id="radialGradient1501"
+       cx="128.17"
+       cy="111.88"
+       r="5.2089"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#fff"
+         offset="0"
+         id="stop1497" />
+      <stop
+         stop-color="#fff"
+         stop-opacity="0"
+         offset="1"
+         id="stop1499" />
+    </radialGradient>
+    <radialGradient
+       id="radialGradient1507"
+       cx="128.17"
+       cy="111.88"
+       r="5.2089"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#ebebeb"
+         stop-opacity=".37255"
+         offset="0"
+         id="stop1503" />
+      <stop
+         stop-color="#fff"
+         stop-opacity="0"
+         offset="1"
+         id="stop1505" />
+    </radialGradient>
+    <radialGradient
+       id="radialGradient1509"
+       cx="256.91"
+       cy="167.88"
+       r="16.124001"
+       gradientTransform="matrix(1.2152,9.0652e-7,-4.29e-7,0.54609,-39.204,76.207)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#e" />
+    <filter
+       id="filter1519"
+       x="-0.03111"
+       y="-0.10498"
+       width="1.0622"
+       height="1.21">
+      <feGaussianBlur
+         stdDeviation=".41804"
+         id="feGaussianBlur1517" />
+    </filter>
+    <linearGradient
+       id="k"
+       x1="479.04001"
+       x2="480.06"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#b" />
+    <filter
+       id="filter1530"
+       x="-0.16112"
+       y="-0.03184"
+       width="1.3221999"
+       height="1.0637">
+      <feGaussianBlur
+         stdDeviation=".55722"
+         id="feGaussianBlur1528" />
+    </filter>
+    <filter
+       id="filter1534"
+       x="-0.03889"
+       y="-0.13122"
+       width="1.0778"
+       height="1.2624">
+      <feGaussianBlur
+         stdDeviation=".52255"
+         id="feGaussianBlur1532" />
+    </filter>
+    <linearGradient
+       id="linearGradient1536"
+       x1="493.91"
+       x2="494.92001"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#b" />
+    <radialGradient
+       id="radialGradient1544"
+       cx="230.13"
+       cy="167.78"
+       r="5.0935001"
+       gradientTransform="matrix(2.1024,3.4972e-8,-2.9988e-8,1.3729,-253.71,-62.569)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#n" />
+    <filter
+       id="filter1554"
+       x="-0.12227"
+       y="-0.14341"
+       width="1.2445"
+       height="1.2868">
+      <feGaussianBlur
+         stdDeviation=".53502"
+         id="feGaussianBlur1552" />
+    </filter>
+    <radialGradient
+       id="radialGradient1560"
+       cx="128.17"
+       cy="111.88"
+       r="5.2089"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#fff"
+         offset="0"
+         id="stop1556" />
+      <stop
+         stop-color="#fff"
+         stop-opacity="0"
+         offset="1"
+         id="stop1558" />
+    </radialGradient>
+    <radialGradient
+       id="radialGradient1566"
+       cx="128.17"
+       cy="111.88"
+       r="5.2089"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#ebebeb"
+         stop-opacity=".37255"
+         offset="0"
+         id="stop1562" />
+      <stop
+         stop-color="#fff"
+         stop-opacity="0"
+         offset="1"
+         id="stop1564" />
+    </radialGradient>
+    <radialGradient
+       id="radialGradient1568"
+       cx="256.91"
+       cy="167.88"
+       r="16.124001"
+       gradientTransform="matrix(1.2152,9.0652e-7,-4.29e-7,0.54609,-39.204,76.207)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#e" />
+    <filter
+       id="filter1578"
+       x="-0.03111"
+       y="-0.10498"
+       width="1.0622"
+       height="1.21">
+      <feGaussianBlur
+         stdDeviation=".41804"
+         id="feGaussianBlur1576" />
+    </filter>
+    <linearGradient
+       id="linearGradient1580"
+       x1="479.04001"
+       x2="480.06"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#b" />
+    <linearGradient
+       id="j"
+       x1="285.57999"
+       x2="285.57999"
+       y1="191.16"
+       y2="195.31"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#825631"
+         offset="0"
+         id="stop44" />
+      <stop
+         stop-color="#825631"
+         stop-opacity="0"
+         offset="1"
+         id="stop46" />
+    </linearGradient>
+    <filter
+       id="y"
+       x="-0.04273"
+       y="-0.70418"
+       width="1.0854"
+       height="2.4084001">
+      <feGaussianBlur
+         stdDeviation="3.50712"
+         id="feGaussianBlur26" />
+    </filter>
+    <filter
+       id="z"
+       x="-0.044259999"
+       y="-0.72939003"
+       width="1.0885"
+       height="2.4588001">
+      <feGaussianBlur
+         stdDeviation="3.6327"
+         id="feGaussianBlur23" />
+    </filter>
+  </defs>
+  <g
+     id="g1464"
+     transform="translate(4.5,87)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:1.25;font-family:'Seven Monkey Fury BB';-inkscape-font-specification:'Seven Monkey Fury BB';letter-spacing:0px;word-spacing:0px;fill:#4382b4;fill-opacity:1;stroke:none;stroke-width:0.75"
+       x="320.5"
+       y="-31.145996"
+       id="text4812"><tspan
+         sodipodi:role="line"
+         id="tspan4810"
+         x="320.5"
+         y="-31.145996"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:'Seven Monkey Fury BB';-inkscape-font-specification:'Seven Monkey Fury BB';fill:#4382b4;fill-opacity:1;stroke-width:0.75">Zen </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:1.25;font-family:'Seven Monkey Fury BB';-inkscape-font-specification:'Seven Monkey Fury BB';letter-spacing:0px;word-spacing:0px;isolation:isolate;fill:#ffdd54;fill-opacity:1;stroke:none;stroke-width:0.75"
+       x="229.42188"
+       y="-29.810055"
+       id="text4812-5"><tspan
+         sodipodi:role="line"
+         id="tspan4810-6"
+         x="229.42188"
+         y="-29.810055"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:'Seven Monkey Fury BB';-inkscape-font-specification:'Seven Monkey Fury BB';fill:#ffdd54;fill-opacity:1;stroke-width:0.75">The </tspan></text>
+  </g>
+  <g
+     id="g1022"
+     transform="translate(0,40.5)">
+    <g
+       transform="translate(0,3)"
+       id="g1010">
+      <g
+         transform="matrix(0.4497966,0,0,0.44385859,505.59798,522.93791)"
+         id="g266">
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:url(#linearGradient1475);fill-opacity:1;stroke-width:0.75"
+           d="m -20.107147,114.20262 v 8.92969 c 0,6.92306 -5.869422,12.74999 -12.5625,12.75 h -20.085938 c -5.501874,0 -10.054686,4.70886 -10.054687,10.21875 v 19.14843 c 0,5.44976 4.738941,8.65524 10.054687,10.21875 6.365499,1.87171 12.469678,2.20998 20.085938,0 5.062616,-1.46579 10.054689,-4.4157 10.054687,-10.21875 v -7.66406 h -20.085937 v -2.55469 h 20.085937 10.054691 c 5.8443456,0 8.0221881,-4.07655 10.0546806,-10.19531 2.09949755,-6.29916 2.01016505,-12.35683 0,-20.4375 -1.444335,-5.81808 -4.2029025,-10.19531 -10.0546806,-10.19531 z m -11.296875,48.49219 c 2.084608,0 3.773437,1.70806 3.773437,3.82031 -1e-6,2.11976 -1.688831,3.84375 -3.773437,3.84375 -2.077163,0 -3.773438,-1.72399 -3.773438,-3.84375 2e-6,-2.11225 1.696273,-3.82031 3.773438,-3.82031 z"
+           id="path1950" />
+      </g>
+      <g
+         id="g988">
+        <path
+           id="path1948"
+           d="m 486.19096,564.08823 c -1.54628,0.007 -3.02295,0.13723 -4.32226,0.3641 -3.82762,0.66729 -4.52257,2.06398 -4.52257,4.63971 v 3.40176 h 9.04513 v 1.13392 h -9.04513 -3.39456 c -2.62876,0 -4.93058,1.55919 -5.65057,4.52528 -0.83048,3.39983 -0.86732,5.52139 0,9.07136 0.64297,2.64246 2.17844,4.52528 4.80721,4.52528 h 3.10992 v -4.07796 c 0,-2.94607 2.58312,-5.54476 5.65057,-5.54476 h 9.03458 c 2.51491,0 4.52257,-2.04336 4.52257,-4.53568 v -8.4992 c 0,-2.41892 -2.06794,-4.236 -4.52257,-4.63971 -1.55381,-0.25523 -3.16603,-0.37119 -4.71232,-0.3641 z m -4.89154,2.73597 c 0.9343,0 1.69728,0.76521 1.69728,1.70608 0,0.93755 -0.76298,1.69569 -1.69728,1.69569 -0.93765,-10e-6 -1.69728,-0.75815 -1.69728,-1.69569 0,-0.94087 0.75963,-1.70608 1.69728,-1.70608 z"
+           style="isolation:isolate;fill:url(#linearGradient1478);fill-opacity:1;stroke-width:0.33511329"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
+    <g
+       transform="translate(0,-72)"
+       id="g1458">
+      <text
+         id="text4812-3"
+         y="675.74365"
+         x="199.90527"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:1.25;font-family:'Seven Monkey Fury BB';-inkscape-font-specification:'Seven Monkey Fury BB';letter-spacing:0px;word-spacing:0px;isolation:isolate;fill:#ffdc51;fill-opacity:1;stroke:none;stroke-width:0.75"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:'Seven Monkey Fury BB';-inkscape-font-specification:'Seven Monkey Fury BB';fill:#ffdc51;fill-opacity:1;stroke-width:0.75"
+           y="675.74365"
+           x="199.90527"
+           id="tspan4810-4"
+           sodipodi:role="line">of</tspan></text>
+      <text
+         id="text4812-3-2"
+         y="676.87744"
+         x="274.04688"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:1.25;font-family:'Seven Monkey Fury BB';-inkscape-font-specification:'Seven Monkey Fury BB';letter-spacing:0px;word-spacing:0px;isolation:isolate;fill:#3670a0;fill-opacity:1;stroke:none;stroke-width:0.75"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:'Seven Monkey Fury BB';-inkscape-font-specification:'Seven Monkey Fury BB';fill:#3670a0;fill-opacity:1;stroke-width:0.75"
+           y="676.87744"
+           x="274.04688"
+           id="tspan4810-4-9"
+           sodipodi:role="line">Python</tspan></text>
+    </g>
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.99999987px;line-height:1.25;font-family:'Segoe Script';-inkscape-font-specification:'Segoe Script Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75;"
+     x="331.96875"
+     y="57.353996"
+     id="text1468"><tspan
+       sodipodi:role="line"
+       x="331.96875"
+       y="67.922249"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.99999987px;font-family:'Segoe Script';-inkscape-font-specification:'Segoe Script Bold';text-align:center;text-anchor:middle;stroke-width:0.75;"
+       id="tspan1472" /><tspan
+       sodipodi:role="line"
+       x="331.96875"
+       y="82.922249"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.99999987px;font-family:'Segoe Script';-inkscape-font-specification:'Segoe Script Bold';text-align:center;text-anchor:middle;stroke-width:0.75;"
+       id="tspan1474" /><tspan
+       sodipodi:role="line"
+       x="331.96875"
+       y="97.922249"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.99999987px;font-family:'Segoe Script';-inkscape-font-specification:'Segoe Script Bold';text-align:center;text-anchor:middle;stroke-width:0.75;"
+       id="tspan1476">Bonito é melhor que feio.</tspan><tspan
+       sodipodi:role="line"
+       x="331.96875"
+       y="112.92225"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.99999987px;font-family:'Segoe Script';-inkscape-font-specification:'Segoe Script Bold';text-align:center;text-anchor:middle;stroke-width:0.75;"
+       id="tspan1478" /><tspan
+       sodipodi:role="line"
+       x="331.96875"
+       y="127.92225"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.99999987px;font-family:'Segoe Script';-inkscape-font-specification:'Segoe Script Bold';text-align:center;text-anchor:middle;stroke-width:0.75;"
+       id="tspan1480">Explícito é melhor que implícito.</tspan><tspan
+       sodipodi:role="line"
+       x="331.96875"
+       y="142.92224"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.99999987px;font-family:'Segoe Script';-inkscape-font-specification:'Segoe Script Bold';text-align:center;text-anchor:middle;stroke-width:0.75;"
+       id="tspan1482" /><tspan
+       sodipodi:role="line"
+       x="331.96875"
+       y="157.92224"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.99999987px;font-family:'Segoe Script';-inkscape-font-specification:'Segoe Script Bold';text-align:center;text-anchor:middle;stroke-width:0.75;"
+       id="tspan1484">Simples é melhor que complexo.</tspan><tspan
+       sodipodi:role="line"
+       x="331.96875"
+       y="172.92224"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.99999987px;font-family:'Segoe Script';-inkscape-font-specification:'Segoe Script Bold';text-align:center;text-anchor:middle;stroke-width:0.75;"
+       id="tspan1486" /><tspan
+       sodipodi:role="line"
+       x="331.96875"
+       y="187.92224"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.99999987px;font-family:'Segoe Script';-inkscape-font-specification:'Segoe Script Bold';text-align:center;text-anchor:middle;stroke-width:0.75;"
+       id="tspan1488">Complexo é melhor que complicado.</tspan><tspan
+       sodipodi:role="line"
+       x="331.96875"
+       y="202.92224"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.99999987px;font-family:'Segoe Script';-inkscape-font-specification:'Segoe Script Bold';text-align:center;text-anchor:middle;stroke-width:0.75;"
+       id="tspan1490" /><tspan
+       sodipodi:role="line"
+       x="331.96875"
+       y="217.92224"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.99999987px;font-family:'Segoe Script';-inkscape-font-specification:'Segoe Script Bold';text-align:center;text-anchor:middle;stroke-width:0.75;"
+       id="tspan1492">Linear é melhor do que aninhado.</tspan><tspan
+       sodipodi:role="line"
+       x="331.96875"
+       y="232.92224"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.99999987px;font-family:'Segoe Script';-inkscape-font-specification:'Segoe Script Bold';text-align:center;text-anchor:middle;stroke-width:0.75;"
+       id="tspan1494" /><tspan
+       sodipodi:role="line"
+       x="331.96875"
+       y="247.92224"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.99999987px;font-family:'Segoe Script';-inkscape-font-specification:'Segoe Script Bold';text-align:center;text-anchor:middle;stroke-width:0.75;"
+       id="tspan1496">Esparso é melhor que denso.</tspan><tspan
+       sodipodi:role="line"
+       x="331.96875"
+       y="262.92224"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.99999987px;font-family:'Segoe Script';-inkscape-font-specification:'Segoe Script Bold';text-align:center;text-anchor:middle;stroke-width:0.75;"
+       id="tspan1498" /><tspan
+       sodipodi:role="line"
+       x="331.96875"
+       y="277.92224"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.99999987px;font-family:'Segoe Script';-inkscape-font-specification:'Segoe Script Bold';text-align:center;text-anchor:middle;stroke-width:0.75;"
+       id="tspan1500">Legibilidade conta.</tspan><tspan
+       sodipodi:role="line"
+       x="331.96875"
+       y="292.92224"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.99999987px;font-family:'Segoe Script';-inkscape-font-specification:'Segoe Script Bold';text-align:center;text-anchor:middle;stroke-width:0.75;"
+       id="tspan1502" /><tspan
+       sodipodi:role="line"
+       x="331.96875"
+       y="307.92224"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.99999987px;font-family:'Segoe Script';-inkscape-font-specification:'Segoe Script Bold';text-align:center;text-anchor:middle;stroke-width:0.75;"
+       id="tspan1504">Casos especiais não são especiais o bastante para quebrar as regras.</tspan><tspan
+       sodipodi:role="line"
+       x="331.96875"
+       y="322.92224"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.99999987px;font-family:'Segoe Script';-inkscape-font-specification:'Segoe Script Bold';text-align:center;text-anchor:middle;stroke-width:0.75;"
+       id="tspan1506" /><tspan
+       sodipodi:role="line"
+       x="331.96875"
+       y="337.92224"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.99999987px;font-family:'Segoe Script';-inkscape-font-specification:'Segoe Script Bold';text-align:center;text-anchor:middle;stroke-width:0.75;"
+       id="tspan1508">Ainda que praticidade vença a pureza.</tspan><tspan
+       sodipodi:role="line"
+       x="331.96875"
+       y="352.92224"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.99999987px;font-family:'Segoe Script';-inkscape-font-specification:'Segoe Script Bold';text-align:center;text-anchor:middle;stroke-width:0.75;"
+       id="tspan1510">Erros nunca devem passar silenciosamente.</tspan><tspan
+       sodipodi:role="line"
+       x="331.96875"
+       y="367.92224"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.99999987px;font-family:'Segoe Script';-inkscape-font-specification:'Segoe Script Bold';text-align:center;text-anchor:middle;stroke-width:0.75;"
+       id="tspan1512">A menos que sejam explicitamente silenciados.</tspan><tspan
+       sodipodi:role="line"
+       x="331.96875"
+       y="382.92224"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.99999987px;font-family:'Segoe Script';-inkscape-font-specification:'Segoe Script Bold';text-align:center;text-anchor:middle;stroke-width:0.75;"
+       id="tspan1514" /><tspan
+       sodipodi:role="line"
+       x="331.96875"
+       y="397.92224"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.99999987px;font-family:'Segoe Script';-inkscape-font-specification:'Segoe Script Bold';text-align:center;text-anchor:middle;stroke-width:0.75;"
+       id="tspan1516">Diante da ambigüidade, recuse a tentação de adivinhar.</tspan><tspan
+       sodipodi:role="line"
+       x="331.96875"
+       y="412.92224"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.99999987px;font-family:'Segoe Script';-inkscape-font-specification:'Segoe Script Bold';text-align:center;text-anchor:middle;stroke-width:0.75;"
+       id="tspan1518" /><tspan
+       sodipodi:role="line"
+       x="331.96875"
+       y="427.92224"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.99999987px;font-family:'Segoe Script';-inkscape-font-specification:'Segoe Script Bold';text-align:center;text-anchor:middle;stroke-width:0.75;"
+       id="tspan1520">Deveria haver um — e preferencialmente só um — modo óbvio para fazer algo.</tspan><tspan
+       sodipodi:role="line"
+       x="331.96875"
+       y="442.92224"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.99999987px;font-family:'Segoe Script';-inkscape-font-specification:'Segoe Script Bold';text-align:center;text-anchor:middle;stroke-width:0.75;"
+       id="tspan1522">Embora esse modo possa não ser óbvio a princípio a menos que você seja holandês.</tspan><tspan
+       sodipodi:role="line"
+       x="331.96875"
+       y="457.92224"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.99999987px;font-family:'Segoe Script';-inkscape-font-specification:'Segoe Script Bold';text-align:center;text-anchor:middle;stroke-width:0.75;"
+       id="tspan1524" /><tspan
+       sodipodi:role="line"
+       x="331.96875"
+       y="472.92224"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.99999987px;font-family:'Segoe Script';-inkscape-font-specification:'Segoe Script Bold';text-align:center;text-anchor:middle;stroke-width:0.75;"
+       id="tspan1526">Agora é melhor que nunca.</tspan><tspan
+       sodipodi:role="line"
+       x="331.96875"
+       y="487.92224"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.99999987px;font-family:'Segoe Script';-inkscape-font-specification:'Segoe Script Bold';text-align:center;text-anchor:middle;stroke-width:0.75;"
+       id="tspan1528">Embora nunca freqüentemente seja melhor que já.</tspan><tspan
+       sodipodi:role="line"
+       x="331.96875"
+       y="502.92224"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.99999987px;font-family:'Segoe Script';-inkscape-font-specification:'Segoe Script Bold';text-align:center;text-anchor:middle;stroke-width:0.75;"
+       id="tspan1530" /><tspan
+       sodipodi:role="line"
+       x="331.96875"
+       y="517.92224"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.99999987px;font-family:'Segoe Script';-inkscape-font-specification:'Segoe Script Bold';text-align:center;text-anchor:middle;stroke-width:0.75;"
+       id="tspan1532">Se a implementação é difícil de explicar, é uma má idéia.</tspan><tspan
+       sodipodi:role="line"
+       x="331.96875"
+       y="532.92224"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.99999987px;font-family:'Segoe Script';-inkscape-font-specification:'Segoe Script Bold';text-align:center;text-anchor:middle;stroke-width:0.75;"
+       id="tspan1534">Se a implementação é fácil de explicar, pode ser uma boa idéia.</tspan><tspan
+       sodipodi:role="line"
+       x="331.96875"
+       y="547.92224"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.99999987px;font-family:'Segoe Script';-inkscape-font-specification:'Segoe Script Bold';text-align:center;text-anchor:middle;stroke-width:0.75;"
+       id="tspan1536">Namespaces são uma grande idéia — vamos ter mais dessas!</tspan></text>
+</svg>
